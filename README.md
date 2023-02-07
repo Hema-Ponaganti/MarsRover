@@ -14,3 +14,6 @@ Proper naming conventions:
     Fields: coordinates
     behavior: check boundaries of rover as it moves
 ->locationOfRover method can be renamed accordingly.
+
+Hardcoded values: 
+The code uses hardcoded values for N, S, W, E for the direction, which can be moved to a constant or a enum.
