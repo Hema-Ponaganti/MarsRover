@@ -1,4 +1,0 @@
-Exceptions/InstructionFailedException.java
- Exceptions.InstructionFailedException
-FindLocation.java
- FindLocation
